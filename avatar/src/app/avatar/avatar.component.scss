@@ -1,0 +1,21 @@
+.avatar-container {
+    height: 80px;
+    width: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(#000000, 0.1);
+    border-radius: 50%;
+  
+    .image {
+      border-radius: 50%;
+      height: 80px;
+    }
+  
+    .text {
+        color: #363636;
+        font-size: 24px;
+        line-height: 19px;
+    }
+  }
+  
